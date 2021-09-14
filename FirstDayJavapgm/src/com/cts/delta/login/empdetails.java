@@ -24,5 +24,6 @@ public class empdetails {
 		cou.oracleCourse();
 		cou.seleniumCourse();
 		
+		
 	}
 }
