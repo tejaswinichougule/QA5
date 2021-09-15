@@ -4,7 +4,7 @@ public class employee {
 	private int id;
 	private String name;
 	private String email;
-	private int getId();
+	int  getId();
 	private long phno;
 	return id;
 }
