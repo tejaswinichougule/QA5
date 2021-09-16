@@ -35,6 +35,7 @@ public class arraylists {
 	li.retainAll(li);
 	System.out.println(li);
 
+	System.out.println("*******");
 	// for loop
 	for(int i=0;i<li.size();i++) {
 		System.out.println(li.get(i));
