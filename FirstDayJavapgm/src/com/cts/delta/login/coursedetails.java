@@ -15,10 +15,10 @@ public class coursedetails {
 		
 	}
 	public static void main(String[] args) {
-		coursedetails cou=new coursedetails();
-		cou.javaCourse();
-		cou.oracleCourse();
-		cou.seleniumCourse();
+		coursedetails co=new coursedetails();
+		co.javaCourse();
+		co.oracleCourse();
+		co.seleniumCourse();
 		
 	}
 }

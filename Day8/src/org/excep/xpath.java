@@ -28,8 +28,7 @@ public class xpath {
 			 
 			 //find the locator
 			 
-			 WebElement txtMail=driver.findElement(By.xpath("//input[@type='text']"));
-			 
+			 WebElement txtMail=driver.findElement(By.xpath("//input[@type='text']")); 
 			 // type in the field
 			 txtMail.sendKeys("java");
 			 

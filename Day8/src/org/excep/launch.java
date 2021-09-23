@@ -17,12 +17,13 @@ public class launch {
 		 // to navigate url
 		 driver.get("https://en-gb.facebook.com/");
 		 
+		 
 		 // to print title in console
 		 
 		 String title=driver.getTitle();
 		 System.out.println(title);
 		 
-		 // 	TTO PRINT CURRENT PAGE URL
+		 // 	TO PRINT CURRENT PAGE URL
 		 String cu=driver.getCurrentUrl();
 		 System.out.println(cu);
 		 
